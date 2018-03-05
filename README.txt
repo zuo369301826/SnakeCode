@@ -1,1 +1,1 @@
-Hi£¬This is my first Git File!!!
+This is my first Git File!!!
